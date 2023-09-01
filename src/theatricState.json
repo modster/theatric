@@ -1,0 +1,73 @@
+{
+  "sheetsById": {
+    "Panels": {
+      "staticOverrides": {
+        "byObject": {
+          "Default panel": {
+            "style": {
+              "background": "radial-gradient(gold, orange)"
+            },
+            "background": {
+              "color1": {
+                "r": 1,
+                "g": 0.7803921568627451,
+                "b": 0,
+                "a": 1
+              },
+              "color2": {
+                "r": 0.9686274509803922,
+                "g": 0.6392156862745098,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "camera": {
+              "position": {
+                "x": 9.499999999999858
+              },
+              "fov": 33
+            },
+            "App": {
+              "background": {
+                "color1": {
+                  "r": 0.9882352941176471,
+                  "g": 0.7725490196078432,
+                  "b": 0.0196078431372549,
+                  "a": 1
+                },
+                "color2": {
+                  "r": 0.9725490196078431,
+                  "g": 0.6196078431372549,
+                  "b": 0.00784313725490196,
+                  "a": 1
+                }
+              }
+            },
+            "Scene": {
+              "background": {
+                "color1": {
+                  "r": 0.9725490196078431,
+                  "g": 0.7607843137254902,
+                  "b": 0.00784313725490196,
+                  "a": 1
+                },
+                "color2": {
+                  "r": 0.9803921568627451,
+                  "g": 0.5058823529411764,
+                  "b": 0.01568627450980392,
+                  "a": 1
+                }
+              }
+            },
+            "Pencil": {
+              "speed": 0.5,
+              "debug": true
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": ["Ph2qa0EdMdcs1Yk2", "iNcZUreE3ciSaiEu"]
+}
